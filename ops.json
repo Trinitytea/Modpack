@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "8e743bc5-c45a-40e1-b9b8-ca3800c28592",
+    "name": "Myoten",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2972b7e9-307f-384b-af17-60b57972e290",
+    "name": "Myoten",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "dd516781-57de-3c1b-abdd-70ac1351b5d8",
+    "name": "Aleiroz",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
